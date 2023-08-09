@@ -1,0 +1,3 @@
+[pomodoro]
+command=./pomodoro.py
+interval=persist
